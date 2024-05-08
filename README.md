@@ -8,7 +8,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Javascript, React.js, Typescript, Python, Kotlin, Java, Php, C#, Tailwind, Bootstrap, MySQL](https://skillicons.dev/icons?i=ts,react,js,py,kotlin,java,php,cs,tailwind,bootstrap,mysql)](https://skillicons.dev)
+[![Javascript, React.js, Typescript, Python, Kotlin, Java, Php, C#, Tailwind, Bootstrap, MySQL, Flask](https://skillicons.dev/icons?i=ts,react,js,py,kotlin,java,php,cs,tailwind,bootstrap,mysql,flask)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
