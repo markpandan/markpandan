@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer that is always willing to learn</h3>
 
 - 🌱 I’m currently learning **to develop Mobile Applications**
-- 🔒 Most of my repos are privated but I am willing to share it :)
 - ✨ I will come back soon
 
 <div align="center">
