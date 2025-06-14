@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Anthony Pandan</h1>
 <h3 align="center">A passionate developer that is always willing to learn</h3>
 
-- 🌱 I’m currently learning **to develop Mobile Applications**
+- 🌱 I’m currently learning **to develop Web Applications**
 - ✨ I will come back soon
 
 <div align="center">
